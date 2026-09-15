@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e979fc3-fd35-4a49-af0f-b466beaf4e95" name="Changes" comment="improve: upload advance">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/rampmaster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/rampmaster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/rampmaster/menu/AsignaturaMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/rampmaster/menu/AsignaturaMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/rampmaster/menu/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/rampmaster/menu/MainMenu.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d88b976-843d-45bb-a9ea-6622e8f434b9" name="Changes" comment="Se actualizan la lista de pendientes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
